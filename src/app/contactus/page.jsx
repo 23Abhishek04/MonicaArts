@@ -192,7 +192,7 @@ export default function ContactUs() {
 
      <div className="h-[300px] w-full border p-5">
         <div className="flex flex-col w-full h-full ">
-          <div className="flex justify-center w-full h-full">
+          {/* <div className="flex justify-center w-full h-full">
             <MapContainer
               center={position}
               zoom={15}
@@ -203,7 +203,7 @@ export default function ContactUs() {
                 <Popup>We are here!</Popup>
               </Marker>
             </MapContainer>
-          </div>
+          </div> */}
         </div>
       </div>
 
